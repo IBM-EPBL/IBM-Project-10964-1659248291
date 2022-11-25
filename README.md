@@ -15,3 +15,6 @@ In this project Gesture based Desktop automation, First the model is trained pre
 3. Sanjay V
 4. Tony A M
 5. Thomas Desmond M 
+
+
+### Demo : [Link](https://drive.google.com/file/d/1tx1eEN89jVLZQnZuMgbS_75qUjQR4_qo/view?usp=share_link)
